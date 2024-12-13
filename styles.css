@@ -1,0 +1,101 @@
+h1{
+    font-size: 30px;
+    color: coral;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*
+ask chatgpt to optimize the photo display */
+.photo-gallery {
+    display: flex;
+    justify-content: space-between; 
+    margin-top: 20px;
+    max-width: 95%; 
+    gap: 20px;
+}
+
+.photo-gallery img {
+    width: calc(45%);
+    aspect-ratio: 1 / 1;
+    object-fit: cover; 
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); 
+}
+
+.blue-link {
+    color: cornflowerblue; 
+    text-decoration: none; 
+    font-weight: lighter; 
+}
+
+.blue-link:hover {
+    text-decoration: underline;
+}
+
+/*
+ask chatgpt how to adjust the line spacing */
+ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0; 
+}
+
+li {
+    margin: 0; 
+    padding: 5px 0; 
+}
+
+/*
+Ask Chatgpt about how to adjust the gap between two column */
+ .middle-content {
+    display: flex; 
+    flex-wrap: nowrap; 
+    padding: 20px;
+    gap: 10px; 
+}
+
+.column {
+    flex: 1; 
+    max-width: 45%; 
+    color: coral;
+    box-sizing: border-box; 
+    font-weight:lighter;
+}
+
+#blue-text{
+    color: cornflowerblue;
+}
+
+footer{
+    text-align: center;
+    font-size: 10px;
+}
+
+.top-content{
+    padding: 20px;
+
+}
+body{
+    background-color: rgb(232, 208, 175);
+}
+
+canvas{
+    margin-left:20px;
+}
+
+.video-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+video {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}

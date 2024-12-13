@@ -1,0 +1,13 @@
+Proposal: https://docs.google.com/document/d/10QAplYABMZdq60ExCl5X0ht-Zhlze4n7U-KtUjWyROM/edit?usp=sharing
+
+When I was designing my game, the proposal I wrote in the initial stage was an ideal plan. My white box was basically designed based on the ideas in the proposal, but when I was completing the final version and hand-drawing the visual assets in the game, I slightly modified my ideas and decided to make the game interaction simpler or easier to operate.
+
+White box: https://editor.p5js.org/songhanhuang/sketches/Dl7MroqRE
+
+Final theme:
+The final game is about growing up. The three scenes are: ground, tree, and sky. 
+In the first scene, the game character only need to collect fallen fruits. The task is easy to complete and the operation is simple. It is like when we were children, growing up was the easiest. We only need to accept and obtain to achieve growth;
+
+The second scene is to collect fruits to get stars. The operation is simple but random probability is added. Not every click can get stars, just like it becomes more difficult as you grow older; 
+
+The third scene is the most difficult. I often get game over at the beginning. The obstacles in the game increase just like the difficulties are increasing in adult life.

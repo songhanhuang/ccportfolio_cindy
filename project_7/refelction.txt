@@ -1,0 +1,12 @@
+By completing this work, I have an opportunity to transform all the skills I learned in p5.js into practical applications. This process is challenging but very rewarding.
+When I was designing my game, the proposal I wrote in the initial stage was an ideal plan. My white box was basically designed based on the ideas in the proposal, but when I was completing the final version and hand-drawing the visual assets in the game, I slightly modified my ideas and decided to make the game interaction simpler or easier to operate.
+After I completed each scene separately in different sketches, it was more difficult than I thought to organize and merge the different scenes and check scene transitions.
+During the merging process, there are unexpected small problems, such as functions that are reused in different scenarios, which need to be solved patiently and carefully.
+
+Final theme:
+The final game is about growing up. The three scenes are: ground, tree, and sky. In the first scene, the game character only need to collect fallen fruits. The task is easy to complete and the operation is simple. It is like when we were children, growing up was the easiest. We only need to accept and obtain to achieve growth; The second scene is to collect fruits to get stars. The operation is simple but random probability is added. Not every click can get stars, just like it becomes more difficult as you grow older; the third scene is the most difficult. I often get game over at the beginning. The obstacles in the game increase just like the difficulties are increasing in adult life.
+
+Separate sketches for different scenes:
+Scene 1:https://editor.p5js.org/songhanhuang/sketches/gP8ewMRLO
+Scene 2:https://editor.p5js.org/songhanhuang/sketches/MSOyWVFUe
+Scene 3:https://editor.p5js.org/songhanhuang/sketches/uE6ZQmA9B
